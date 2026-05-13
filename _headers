@@ -7,7 +7,7 @@
   Cross-Origin-Opener-Policy: same-origin
   Cross-Origin-Resource-Policy: same-origin
   Cross-Origin-Embedder-Policy: credentialless
-  Content-Security-Policy: default-src 'self'; script-src 'self' 'sha256-BCyrlWoLU1DKcKCVCGkP1yhKNokEVVj/8m6vHSto8uc=' 'sha256-T3GG81J2txW2OAxKgJg3c+UDLfkwlhu0mTl4lX2iwkE=' 'sha256-U4Roab0u7JbcDHrVKNW3JeOrZ/zNIwTqCQ8eHuLeXU8=' 'sha256-rOHPPKseEx7XpeXd1ijv1gm+JFKYBVhXMFCj1NIkKD0=' 'sha256-ypXG2hOIQjWjuAq1FOH50DmIcrzBQaDQW8OYj0XmKng='; style-src 'self' 'sha256-/DO+UTC9T74x9TfCYR772LbeI0Bmb/rc8EgqFWZPgxQ=' 'sha256-E0Oy+bwZ3398DFT6hnbZf9CpzQ9y9SZSAHGQBO2n6ws=' 'sha256-koc2LjAYm4SrVba17V/Rstnpc3VVuZwjUHwwExgVJ2E='; img-src 'self' data: blob: https:; font-src 'self'; connect-src 'self'; frame-ancestors 'none'; base-uri 'self'; form-action 'self' https://formsubmit.co; object-src 'none'; require-trusted-types-for 'script'
+  Content-Security-Policy: default-src 'self'; script-src 'self' 'sha256-BCyrlWoLU1DKcKCVCGkP1yhKNokEVVj/8m6vHSto8uc=' 'sha256-U4Roab0u7JbcDHrVKNW3JeOrZ/zNIwTqCQ8eHuLeXU8=' 'sha256-ihE9x7tRtmFGg8L3wmGgCT/c6CEW6ujLCBRg1b0oyhM=' 'sha256-rOHPPKseEx7XpeXd1ijv1gm+JFKYBVhXMFCj1NIkKD0=' 'sha256-ypXG2hOIQjWjuAq1FOH50DmIcrzBQaDQW8OYj0XmKng='; style-src 'self' 'sha256-+rCM0zY51wekBz5nnb3UERBLTzG39LrTCOTCFRQddvI=' 'sha256-BCFTl/KW+9OG5oQPJxZWsI/jsPN6xrTuIoOYu+amdR0=' 'sha256-zavaHo4Y1L6x1mql8k8d0CitFyFSg0zo26Lv4Ek6iyk='; img-src 'self' data: blob: https:; font-src 'self'; connect-src 'self'; frame-ancestors 'none'; base-uri 'self'; form-action 'self' https://formsubmit.co; object-src 'none'; require-trusted-types-for 'script'
 
 /fonts/*
   Cache-Control: public, max-age=31536000, immutable
